@@ -9,7 +9,7 @@ Files and executables for custom campaigns in ETQW multiplayer
 
 3. Copy contents of repo `base/` directory into local game root folder.
 
-4. If hosting, copy `server-configs/` and `server-start-scripts/` into local game root folder.
+4. If hosting, copy `server-profiles/` into local game root folder.
 
 5. Keep the Strogg hands off your oil.
 
@@ -20,7 +20,7 @@ Files and executables for custom campaigns in ETQW multiplayer
 
 2. In the top left, go to *File > Open*.
 
-3. In the file menu that opens, select a `.sprofile` from the `server-configs/` directory.
+3. In the file menu that opens, select a `.sprofile` from the `server-profiles/` directory.
 
 4. Make any desired to the rules.
 
