@@ -1,7 +1,0 @@
-campaignDef campaign_gdfdefense {
-	map	"maps/quarry"
-	map	"maps/area22"
-	map	"maps/ark"
-	map	"maps/salvage"
-	map	"maps/volcano"
-}

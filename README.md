@@ -11,14 +11,22 @@ Files and executables for custom campaigns in ETQW multiplayer
 
 4. If hosting, copy `server-configs/` and `server-start-scripts/` into local game root folder.
 
-5. Start the server by running the desired `.bat` file in `server-start-scripts/`.
-
-6. Keep the Strogg hands off your oil.
+5. Keep the Strogg hands off your oil.
 
 
 ## Start a LAN server
 
-1. Select and run any of the server start batch files from `server-start-scripts/`. You may need to run as administrator.
+1. From the root directory, run `serverlauncher.exe`.
+
+2. In the top left, go to *File > Open*.
+
+3. In the file menu that opens, select a `.sprofile` from the `server-configs/` directory.
+
+4. Make any desired to the rules.
+
+5. Click *Start Server*.
+
+The server will now show under the *Play on LAN* server list in game.
 
 
 ## Create your own campaigns
@@ -33,7 +41,3 @@ I've found here.
 - `failed to open log file 'demonware_server.log'`
 
 Run server start file as admininstrator.
-
-- Campaign loads in select menu, but nothing happens when clicking play
-
-Add contents of `base/def/` directory.
