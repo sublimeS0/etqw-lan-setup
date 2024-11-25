@@ -1,0 +1,9 @@
+campaignDef campaign_gdfattack {
+	map "maps/sewer"
+	map	"maps/slipgate"
+	map	"maps/refinery"
+	map	"maps/outskirts"
+	map	"maps/valley"
+	map	"maps/island"
+	map "maps/canyon"
+}

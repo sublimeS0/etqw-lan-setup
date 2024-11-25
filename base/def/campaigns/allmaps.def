@@ -1,0 +1,14 @@
+campaignDef campaign_allmaps {
+	map "maps/sewer"
+    map	"maps/area22"
+	map	"maps/slipgate"
+    map	"maps/quarry"
+	map	"maps/refinery"
+    map	"maps/volcano"
+    map	"maps/ark"
+	map	"maps/outskirts"
+    map	"maps/salvage"
+	map	"maps/valley"
+	map	"maps/island"
+	map "maps/canyon"
+}
